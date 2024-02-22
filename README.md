@@ -18,10 +18,10 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek kumar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kr2511/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
   <a href="https://instagram.com/abhishek.k_a_r_t_i_k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek.k_a_r_t_i_k" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/abhi_shek_kr" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_shek_kr" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@abhishek7187" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek7187" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/dashboard" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek7187" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/abhishek123cu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek123cu" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/abhishek123cu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek123cu" height="30" width="40" /></a>
 </p>
@@ -49,7 +49,6 @@
 
 <p align="center">
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
