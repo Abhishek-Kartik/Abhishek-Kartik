@@ -67,12 +67,15 @@
 <p align="center">
   
 </p>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kartik&layout=compact&hide=html" alt="Top Langs">
+  <a href="https://github.com/abhishek-kartik">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kartik&layout=compact&hide=html" alt="Top Langs">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kartik" alt="GitHub Streak">
+  <a href="https://github.com/abhishek-kartik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kartik&theme=dark&hide_border=true" alt="GitHub Streak">
+  </a>
 </p>
+
